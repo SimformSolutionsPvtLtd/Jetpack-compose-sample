@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BasicRecyclerViewExample</string>
+    <string name="str_my_fav_movies">My Fav Movies</string>
+    <string name="str_movie_detail">Movie Detail</string>
+</resources>
