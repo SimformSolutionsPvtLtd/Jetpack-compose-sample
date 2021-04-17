@@ -1,6 +1,8 @@
-# Basic sample project to get started with Jetpack-Compose
-
-It's a very small project to learn about Jetpack compose. We have used **LazyColumn, LazyRow, Column, Text, Image, Spacer** composable functions.
+# About this project
+ - It's a very small project to learn about Jetpack compose
+ - We have used **LazyColumn, LazyRow, Column, Text, Image, Spacer** composable functions
+ - For more information, please read the documentation [documentation](https://developer.android.com/jetpack/compose)
+ - You need latest android studio canary version to run this project. You can download from [here](https://developer.android.com/studio/preview)
 
 ## Screenshots & GIF
 
