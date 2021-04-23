@@ -1,5 +1,5 @@
 # Jetpack Compose Sample
-[![Android-Studio](https://img.shields.io/badge/Android%20Studio-Canary-14+-orange.svg?style=flat)](https://developer.android.com/studio/preview)
+[![Android-Studio](https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/android.svg&color=3ddc84)](https://developer.android.com/studio/preview)
 ![Compose Version](https://img.shields.io/badge/Compose-1.0.0--beta03-brightgreen)
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 
